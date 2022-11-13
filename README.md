@@ -6,9 +6,9 @@
       Integrantes:
        •	Condor Vasconez Ariel Patricio
 
-       •
+       •    Collaguazo Ushiña Alejandro Daniel
 
-       • Toapanta Tipantuña Victor Hugo 
+       •    Toapanta Tipantuña Victor Hugo 
 
       NRC:10066 - 10063
 
@@ -16,7 +16,7 @@
 
 PRÁCTICA No. 1 LEYES DE KIRCHHOFF
 
-1.1.	OBJETIVO DE LA PRÁCTICA
+     1 OBJETIVO DE LA PRÁCTICA
 
 Objetivos Generales:
 
@@ -34,21 +34,21 @@ Objetivos Específicos:
 
 •	Identificar la corriente eléctrica o intensidad eléctrica que pasa a través de los diferentes conductores eléctricos. 
 
-1.2.	MARCO TEORICO 
+     2 MARCO TEORICO 
 
-1.3.	MATERIAL Y EQUIPO REQUERIDO
+     3 MATERIAL Y EQUIPO REQUERIDO
 
 ![image](https://user-images.githubusercontent.com/117923992/201498442-a5733143-d41c-4b3f-82db-3fc5de501c73.png)
 
-1.4. PROCEDIMIENTO
+     4 PROCEDIMIENTO
 
-1.5.1. Arme el circuito que se muestra en la figura 1.1 en Thinkercad.
+Arme el circuito que se muestra en la figura 1.1 en Thinkercad.
 
 ![image](https://user-images.githubusercontent.com/117923992/201499905-f1cff2b5-4fb5-4d5b-90cc-2e2facb0e54b.png)
 
 ![image](https://user-images.githubusercontent.com/117923992/201499926-81e94016-876f-4085-aec0-57bc7214c0a4.png)
 
-1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
+Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
 
 Resistencia equivalente
 
@@ -80,7 +80,9 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 
 ![image](https://user-images.githubusercontent.com/117923992/201500052-fa3a459e-e29a-4380-92b9-15db41659be1.png)
 
-1.5.3 Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
+Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
+
+
 Tabla 1.2 Verificación de la LVK.
 
 ![image](https://user-images.githubusercontent.com/117923992/201500062-6e80b045-5a2a-41c0-bf23-7224c520fff6.png)
@@ -188,11 +190,11 @@ Con Valores medidos:
 
 ![image](https://user-images.githubusercontent.com/117923992/201500352-229db885-a240-4c3d-b5b0-7fefdb73c98d.png)
 
-CONCLUSIONES 
+     5 CONCLUSIONES 
 
 Como resultado de este laboratorio se pudo conocer el comportamiento de la corriente en un nodo y el voltaje alrededor de una malla, con esto podemos también verificar que los resultados de la medición calculada mediante la ley de Kirchhoff y la medida en el laboratorio virtual son las mismas en su mayoría.
 
-BIBLIOGRAFIA 
+     6 BIBLIOGRAFIA 
 
 •	"Las leyes de Kirchhoff (artículo) | Khan Academy". Khan Academy. https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws (accedido el 12 de noviembre de 2022).
 
