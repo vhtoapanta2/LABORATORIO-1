@@ -192,11 +192,16 @@ Con Valores medidos:
 
 ![image](https://user-images.githubusercontent.com/117923992/201500352-229db885-a240-4c3d-b5b0-7fefdb73c98d.png)
 
-     5 CONCLUSIONES 
+     5 VIDEO 
+     
+https://youtu.be/UbLGtYYwv1I
+   
+     
+     6 CONCLUSIONES 
 
 Como resultado de este laboratorio se pudo conocer el comportamiento de la corriente en un nodo y el voltaje alrededor de una malla, con esto podemos también verificar que los resultados de la medición calculada mediante la ley de Kirchhoff y la medida en el laboratorio virtual son las mismas en su mayoría.
 
-     6 BIBLIOGRAFIA 
+     7 BIBLIOGRAFIA 
 
 •	"Las leyes de Kirchhoff (artículo) | Khan Academy". Khan Academy. https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws (accedido el 12 de noviembre de 2022).
 
